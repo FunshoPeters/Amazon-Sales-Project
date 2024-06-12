@@ -1,2 +1,2 @@
-# Amazon-Sales-Project
+# Amazon Sales Project
 Analyzing Amazon Sales Data
